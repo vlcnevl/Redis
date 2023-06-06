@@ -5,7 +5,8 @@ Redis, açık kaynaklı bir in-memory veri yapısı deposudur. Verileri hafızad
 
 <br/>
 <b>docker-compose.yaml</b> <br/>
-![Ekran görüntüsü 2023-06-06 133851](https://github.com/vlcnevl/Redis/assets/33234437/73586ea1-d839-4900-8bca-fe82b6e17e54)
+
+![create-doker-compose](https://github.com/vlcnevl/Redis/assets/33234437/fa8403cb-f872-40d1-bc09-6c866230d2f4)
 
 <br/>
 run docker-compose.yaml<br/>
